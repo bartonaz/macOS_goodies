@@ -1,5 +1,5 @@
 # Unicode layout for the Ukrainian language on macOS  
-*[taken from [here](https://r2u.org.ua/wiki/keyboard/UkrainianUnicode)]*
+*[taken from [here](http://bluezbox.com/uapc.html)]*
 
 The two files should be copied to:
    * `/Library/Keyboard Layout` to be installed for all users;
