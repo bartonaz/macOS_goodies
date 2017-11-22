@@ -29,9 +29,9 @@
 
                 <!-- Gutter -->
                 <key>gutter</key>
-                <string>#002b35</string>
+                <string>#001C22</string>
                 <key>gutterForeground</key>
-                <string>#566e75</string>
+                <string>#40555b</string>
 
                 <!-- Highlighting -->
                 <key>lineHighlight</key>
@@ -715,3 +715,4 @@
     <string>F930B0BF-AA03-4232-A30F-CEF749FF8E72</string>
 </dict>
 </plist>
+
